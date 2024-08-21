@@ -10,7 +10,7 @@ class Brianna:
         self.hobbies = ["Coding!", "Gaming", "Working Out", "Boxing", "Sleeping"]
 ```
 
-I have been interested in technology since about 12 years old, that's when I jailbroke my first iPad. I officially started off my coding journey in my freshman year of college, using C++ and eventually grew to learn Python and JavaScript. Now I am playing around with Web Design and Cloud, messing around with HTML, CSS, and AWS. I am continuously learning!
+I have been interested in technology since about 12 years old, that's when I jailbroke my first iPad. I officially started my coding journey in my freshman year of college, using C++, and eventually grew to learn Python and JavaScript. Now I am playing with Web Design and Cloud, messing around with HTML, CSS, and AWS. I am continuously learning!
 
 ### :briefcase: Credentials
 - Experience:
