@@ -19,7 +19,7 @@ I have been interested in technology since about 12 years old, that's when I jai
   - You can view a few of my projects here on my GitHub!
 -----
 
-# :thinking: What Am I Doing?
+# :thinking: What Am I Up To?
 - :clipboard: Currently:
   - Finishing up my last year of Undergrad
   - Building stuff on AWS
