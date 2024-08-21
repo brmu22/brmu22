@@ -6,7 +6,7 @@ My name is Bri and I'm a Computer Science major @ Morgan State University! 🐻
 ```python
 class Brianna:
     def __init__(self):
-        self.traits = ["smart", "adventurous", "nerdy"]
+        self.traits = ["smart", "adventurous", "foodie"]
         self.hobbies = ["Coding!", "Gaming", "Working Out", "Boxing", "Sleeping"]
 ```
 
