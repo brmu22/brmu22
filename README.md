@@ -26,7 +26,7 @@ I have been interested in technology since about 12 years old, that's when I jai
   - Working for a Fortune 500 company
 -----
 
-# Tech Stack
+# :computer: Tech Stack
 [![Web Dev](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
 
 [![Other](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev)
