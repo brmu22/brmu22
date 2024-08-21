@@ -1,6 +1,6 @@
 ### Hi! I'm Brianna.
 -----
-# :postbox: About Me
+# :sparkles: About Me
 My name is Bri and I'm a Computer Science major @ Morgan State University! 🐻
 
 ```python
@@ -19,7 +19,7 @@ I have been interested in technology since about 12 years old, that's when I jai
   - You can view a few of my projects here on my GitHub!
 -----
 
-# :round_pushpin: What Am I Doing?
+# :thinking: What Am I Doing?
 - :clipboard: Currently:
   - Finishing up my last year of Undergrad
   - Building stuff on AWS
