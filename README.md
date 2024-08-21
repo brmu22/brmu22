@@ -7,7 +7,7 @@ My name is Bri and I'm a Computer Science major @ Morgan State University! #GoBe
 class Brianna:
     def __init__(self):
         self.traits = ["smart", "adventurous", "foodie"]
-        self.hobbies = ["Coding!", "Gaming", "Working Out", "Boxing", "Sleeping"]
+        self.hobbies = ["Coding!", "Gaming", "Working Out", "Sleeping"]
 ```
 
 I have been interested in technology since about 12 years old, that's when I jailbroke my first iPad. I officially started my coding journey in my freshman year of college, using C++, and eventually grew to learn Python and JavaScript. Now I am playing with Web Design and Cloud, messing around with HTML, CSS, and AWS. I am continuously learning!
