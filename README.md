@@ -1,4 +1,4 @@
-### Hi! My name is Brianna.
+### Hi! I'm Brianna.
 -----
 # :postbox: About Me
 My name is Bri and I'm a Computer Science @ Morgan State University! 🐻
