@@ -1,4 +1,4 @@
-### Hi! I'm Brianna.
+### Hi! I'm Brianna 👋🏽
 -----
 # :sparkles: About Me
 My name is Bri and I'm a Computer Science major @ Morgan State University! #GoBears! 🐻
