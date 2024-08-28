@@ -10,7 +10,7 @@ class Brianna:
         self.hobbies = ["Coding!", "Gaming", "Working Out", "Sleeping"]
 ```
 
-I have been interested in technology since about 12 years old, that's when I jailbroke my first iPad. I officially started my coding journey in my freshman year of college, using C++, and eventually grew to learn Python and JavaScript. Now I am playing with Web Design and Cloud, messing around with HTML, CSS, and AWS. I am continuously learning!
+I have been interested in technology since I was about 12 years old, that's when I jailbroke my first iPad. I officially started my coding journey in my freshman year of college, using C++, and eventually grew to learn Python and JavaScript. Now I am playing with Web Design and Cloud, messing around with HTML, CSS, and AWS. I am continuously learning!
 
 ### :briefcase: Credentials
 - Experience:
@@ -21,9 +21,10 @@ I have been interested in technology since about 12 years old, that's when I jai
 
 # :thinking: What Am I Up To?
 - :clipboard: Currently:
-  - Finishing up my last year of Undergrad
+  - Finishing up my last year of undergrad
   - Building stuff on AWS
   - Working for a Fortune 500 company
+  - Revamping my GitHub :face_with_spiral_eyes:
 -----
 
 # :computer: Tech Stack
