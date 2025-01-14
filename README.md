@@ -23,7 +23,6 @@ I have been interested in technology since I was about 12 years old, that's when
 - :clipboard: Currently:
   - Finishing up my last year of undergrad
   - Building stuff on AWS
-  - Working for a Fortune 500 company
   - Revamping my GitHub :face_with_spiral_eyes:
   - Check out my side practice projects here: https://github.com/Various-Practice-Projects
 -----
