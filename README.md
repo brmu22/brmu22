@@ -15,7 +15,7 @@ I have been interested in technology since I was about 12 years old, that's when
 ### :briefcase: Credentials
 - Experience:
   - 5-ish years in the IT field
-  - Self-Taught Full-Stack Web Development (approx 1 year)
+  - Self-Taught Full-Stack Web Development 
   - You can view a few of my projects here on my GitHub!
 -----
 
