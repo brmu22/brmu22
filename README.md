@@ -1,7 +1,7 @@
 ### Hi! I'm Brianna 👋🏽
 -----
 # :sparkles: About Me
-My name is Bri and I'm a Computer Science major @ Morgan State University! #GoBears! 🐻
+My name is Bri and I'm a Computer Science Graduate from Morgan State University! #GoBears! 🐻
 
 ```python
 class Brianna:
@@ -21,8 +21,9 @@ I have been interested in technology since I was about 12 years old, that's when
 
 # :thinking: What Am I Up To?
 - :clipboard: Currently:
-  - Finishing up my last year of undergrad
+  - Awaiting Grad school in Fall 2026
   - Building stuff on AWS
+  - Leveling up my AI skills with CodePath
   - Revamping my GitHub :face_with_spiral_eyes:
   - Check out my side practice projects here: https://github.com/Various-Practice-Projects
 -----
